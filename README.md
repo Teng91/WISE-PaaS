@@ -1,5 +1,4 @@
-# wise-paas
-## 由研華股份有限公司與臺灣大學生農學院合作之產學計畫
+# 產學計畫-研華股份有限公司與臺灣大學生農學院
 - 相關資料: https://hackmd.io/@bhIA534oS4WfxIHxC2EFfA/r1WMd493j/%2FuLrh41wxQSyjc2ASdNxXQg
 ## 程式碼功能概述
 1. EdgeAgent 初始化與連線
