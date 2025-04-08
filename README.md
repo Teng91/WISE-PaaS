@@ -1,5 +1,5 @@
 # 產學計畫-研華股份有限公司與臺灣大學生農學院
-- 相關資料: https://hackmd.io/@bhIA534oS4WfxIHxC2EFfA/r1WMd493j/%2FuLrh41wxQSyjc2ASdNxXQg
+- 相關資料：https://hackmd.io/@bhIA534oS4WfxIHxC2EFfA/r1WMd493j/%2FuLrh41wxQSyjc2ASdNxXQg
 ## 程式碼功能概述
 1. EdgeAgent 初始化與連線
    - 使用 EdgeAgentOptions 和 DCCSOptions 配置 EdgeAgent，並連接到 Advantech 的 WISE-PaaS 平台
