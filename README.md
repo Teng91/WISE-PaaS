@@ -12,7 +12,7 @@
    - 將處理後的數據封裝為 EdgeData，並透過 EdgeAgent 的 sendData 方法上傳到雲端
 4. 定時執行
    - 使用無窮迴圈，每隔 5 秒執行一次數據讀取與上傳
-## 程式碼功能概述
+## 程式碼關鍵技術
 1. Advantech WISE-PaaS SDK
    - 使用 wisepaasdatahubedgesdk 套件來與 WISE-PaaS 平台進行互動
    - 透過 EdgeAgent 和 EdgeTag 將數據封裝並上傳
